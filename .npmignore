@@ -1,0 +1,16 @@
+src/
+tests/
+examples/
+.github/
+*.test.ts
+*.test.tsx
+tsconfig.json
+rollup.config.js
+rollup.config.react.js
+jest.config.js
+.eslintrc.js
+.DS_Store
+*.log
+coverage/
+node_modules/
+.env
